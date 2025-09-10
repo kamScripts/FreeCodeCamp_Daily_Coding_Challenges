@@ -1,5 +1,6 @@
 def array_diff(arr1,arr2):
-    """Given two arrays with strings values, return a new
+    """Task @ FreeCodeCamp.org <br/>
+    Given two arrays with strings values, return a new
     array containing all the values that appear in only
     one of the arrays.
     
