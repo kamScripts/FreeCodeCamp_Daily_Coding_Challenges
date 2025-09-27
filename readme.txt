@@ -21,3 +21,12 @@ Given an array of numbers representing the speed at which vehicles were observed
 If there were no vehicles speeding, return [0, 0].
 speeding([58, 50, 60, 55], 55) should return [2, 4]
 speeding([61, 81, 74, 88, 65, 71, 68], 70) should return [4, 8.5]
+</>
+<>2nd Largest
+https://www.freecodecamp.org/learn/daily-coding-challenge/2025-09-25
+
+Given an array, return the second largest distinct number.
+
+second_largest([10, -17, 55.5, 44, 91, 0]) should return 55.5
+second_largest([2, 3, 4, 6, 6]) should return 4.
+</>
